@@ -77,7 +77,7 @@
 
 - (NSString *)tableView:(UITableView *)tableView titleForHeaderInSection:(NSInteger)section
 {
-	return @"testing";
+	return [[commentsArray objectAtIndex:section] objectForKey:@"author"];
 }
 
 

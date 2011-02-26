@@ -1,7 +1,7 @@
 TBlognone10
 v7
 r0
-t320441605.243566
+t320441919.394420
 cCheck dependencies
 cProcessInfoPlistFile /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app/Info.plist Blognone3-Info.plist
 cCompileXIB /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/MainWindow.xib
@@ -476,9 +476,9 @@ s478
 i<UIKit/UIKit.h>
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/Classes/EntryNewsViewController.m
-c000000004D694D800000000000000BC1
-t1298746752
-s3009
+c000000004D6956BF0000000000000BF5
+t1298749119
+s3061
 i"EntryNewsViewController.h"
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/Classes/EntryNewsViewController.xib
@@ -691,8 +691,8 @@ t1298748804
 s57324
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Objects-normal/i386/EntryNewsViewController.o
-t1298748791
-s47448
+t1298749119
+s47672
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Objects-normal/i386/IconDownloader.o
 t1298748790
@@ -747,11 +747,11 @@ t1298748790
 s6352
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app
-t1298748805
+t1298749119
 s408
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app.dSYM
-t1298748805
+t1298749119
 s102
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app/ActivityIndicatorViewController.nib
@@ -759,7 +759,7 @@ t1298746562
 s1366
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app/Blognone10
-t1298748805
+t1298749119
 s126404
 
 N/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app/Blognone3.momd
@@ -865,7 +865,7 @@ s910
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies320441604#320441604#0(0"0(0#1#0"8612901024#0"0#
+lSLF07#2@18"Check dependencies320441919#320441919#0(0"0(0#1#0"8615213184#0"0#
 
 CCompileC build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Objects-normal/i386/Blognone3AppDelegate.o /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/Classes/Blognone3AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s319964683.887104
@@ -946,8 +946,8 @@ xcom.apple.compilers.gcc.4_2
 lSLF07#2@100"Compile /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/Classes/DetailViewController.m320441604#320441604#0(0"0(0#0#92"/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/Classes/DetailViewController.m8612347840#2269"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Blognone10-generated-files.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Blognone10-own-target-headers.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Blognone10-all-target-headers.hmap -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Blognone10-project-headers.hmap -F/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator -I/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/include -I/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/DerivedSources/i386 -I/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/DerivedSources -include /var/folders/Cx/Cx3H3sPLGMK-ddNs9AgYEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blognone3_Prefix-gziemsnvhrnkmhbmxiwcahjnwjvr/Blognone3_Prefix.pch -c /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/Classes/DetailViewController.m -o /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Objects-normal/i386/DetailViewController.o0#
 
 CCompileC build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Objects-normal/i386/EntryNewsViewController.o /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/Classes/EntryNewsViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-s320441591.101327
-e320441591.205502
+s320441919.069432
+e320441919.311333
 r1
 xCompileC
 xbuild/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Objects-normal/i386/EntryNewsViewController.o
@@ -956,7 +956,7 @@ xnormal
 xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
-lSLF07#2@103"Compile /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/Classes/EntryNewsViewController.m320441591#320441591#0(0"0(0#0#95"/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/Classes/EntryNewsViewController.m8604667072#2275"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Blognone10-generated-files.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Blognone10-own-target-headers.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Blognone10-all-target-headers.hmap -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Blognone10-project-headers.hmap -F/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator -I/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/include -I/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/DerivedSources/i386 -I/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/DerivedSources -include /var/folders/Cx/Cx3H3sPLGMK-ddNs9AgYEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blognone3_Prefix-gziemsnvhrnkmhbmxiwcahjnwjvr/Blognone3_Prefix.pch -c /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/Classes/EntryNewsViewController.m -o /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Objects-normal/i386/EntryNewsViewController.o0#
+lSLF07#2@103"Compile /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/Classes/EntryNewsViewController.m320441919#320441919#0(0"0(0#0#95"/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/Classes/EntryNewsViewController.m8615270016#2275"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11    setenv LANG en_US.US-ASCII    setenv PATH "/Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Blognone10-generated-files.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Blognone10-own-target-headers.hmap -I/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Blognone10-all-target-headers.hmap -iquote /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Blognone10-project-headers.hmap -F/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator -I/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/include -I/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/DerivedSources/i386 -I/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/DerivedSources -include /var/folders/Cx/Cx3H3sPLGMK-ddNs9AgYEE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Blognone3_Prefix-gziemsnvhrnkmhbmxiwcahjnwjvr/Blognone3_Prefix.pch -c /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/Classes/EntryNewsViewController.m -o /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Objects-normal/i386/EntryNewsViewController.o0#
 
 CCompileC build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Objects-normal/i386/IconDownloader.o /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/Classes/IconDownloader.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s319964684.445241
@@ -1393,13 +1393,13 @@ x/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/build/Debug-iphon
 lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Blognone10.app.dSYM build/Debug-iphonesimulator/Blognone10.app/Blognone10319964685#319964685#0(0"0(0#0#115"/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/build/Debug-iphonesimulator/Blognone10.app/Blognone108602838528#464"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10    setenv PATH "/Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5/usr/bin/dsymutil /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/build/Debug-iphonesimulator/Blognone10.app/Blognone10 -o /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/build/Debug-iphonesimulator/Blognone10.app.dSYM0#
 
 CGenerateDSYMFile /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app.dSYM /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app/Blognone10
-s320441605.144378
-e320441605.224145
+s320441919.352780
+e320441919.390401
 r1
 xGenerateDSYMFile
 x/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app.dSYM
 x/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app/Blognone10
-lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Blognone10.app.dSYM build/Debug-iphonesimulator/Blognone10.app/Blognone10320441605#320441605#0(0"0(0#0#115"/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app/Blognone108612826528#464"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11    setenv PATH "/Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5/usr/bin/dsymutil /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app/Blognone10 -o /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app.dSYM0#
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/Blognone10.app.dSYM build/Debug-iphonesimulator/Blognone10.app/Blognone10320441919#320441919#0(0"0(0#0#115"/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app/Blognone108615567872#464"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11    setenv PATH "/Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5/usr/bin/dsymutil /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app/Blognone10 -o /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app.dSYM0#
 
 CLd /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/build/Debug-iphonesimulator/Blognone10.app/Blognone10 normal i386
 s319964684.725726
@@ -1412,14 +1412,14 @@ xi386
 lSLF07#2@120"Link /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/build/Debug-iphonesimulator/Blognone10.app/Blognone10319964684#319964685#0(0"0(0#0#0"8599009984#1054"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/build/Debug-iphonesimulator -F/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/build/Debug-iphonesimulator -filelist /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Objects-normal/i386/Blognone10.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/build/Debug-iphonesimulator/Blognone10.app/Blognone100#
 
 CLd /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app/Blognone10 normal i386
-s320441604.811471
-e320441605.144284
+s320441919.311417
+e320441919.352666
 r1
 xLd
 x/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app/Blognone10
 xnormal
 xi386
-lSLF07#2@120"Link /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app/Blognone10320441604#320441605#0(0"0(0#0#0"8612324256#1054"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator -F/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator -filelist /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Objects-normal/i386/Blognone10.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app/Blognone100#
+lSLF07#2@120"Link /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app/Blognone10320441919#320441919#0(0"0(0#0#0"8615355424#1054"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator -F/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator -filelist /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Objects-normal/i386/Blognone10.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app/Blognone100#
 
 CProcessInfoPlistFile /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/build/Debug-iphonesimulator/Blognone10.app/Info.plist Blognone3-Info.plist
 s319964671.781665
@@ -1468,10 +1468,10 @@ x/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/build/Debug-iphon
 lSLF07#2@110"Touch /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/build/Debug-iphonesimulator/Blognone10.app319964685#319964685#0(0"0(0#0#0"8602108608#329"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10    setenv PATH "/Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/build/Debug-iphonesimulator/Blognone10.app0#
 
 CTouch /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app
-s320441605.224239
-e320441605.243515
+s320441919.390485
+e320441919.394374
 r1
 xTouch
 x/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app
-lSLF07#2@110"Touch /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app320441605#320441605#0(0"0(0#0#0"8612802976#329"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11    setenv PATH "/Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app0#
+lSLF07#2@110"Touch /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app320441919#320441919#0(0"0(0#0#0"8614466304#329"    cd /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11    setenv PATH "/Xcode3.2.5/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Xcode3.2.5/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone11/build/Debug-iphonesimulator/Blognone10.app0#
 
