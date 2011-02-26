@@ -331,7 +331,7 @@
 										<key>_historyCapacity</key>
 										<integer>0</integer>
 										<key>bookmark</key>
-										<string>3BC224531317AA8D00C1643D</string>
+										<string>3BC224591317B23800C1643D</string>
 										<key>history</key>
 										<array>
 											<string>3B954B1312B964BA00AE828A</string>
@@ -558,6 +558,8 @@
 	<integer>5</integer>
 	<key>WindowOrderList</key>
 	<array>
+		<string>1C78EAAD065D492600B07095</string>
+		<string>1CD10A99069EF8BA00B06720</string>
 		<string>3B954ABC12B9612500AE828A</string>
 		<string>/Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/Blognone10.xcodeproj</string>
 	</array>
@@ -761,13 +763,13 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1CD10A99069EF8BA00B06720</string>
-				<string>3B42691F1312481C0095E6F5</string>
+				<string>3BC2245A1317B23800C1643D</string>
 				<string>1C162984064C10D400B95A72</string>
-				<string>3B4269201312481C0095E6F5</string>
-				<string>3B4269211312481C0095E6F5</string>
-				<string>3B4269221312481C0095E6F5</string>
-				<string>3B4269231312481C0095E6F5</string>
-				<string>3B4269241312481C0095E6F5</string>
+				<string>3BC2245B1317B23800C1643D</string>
+				<string>3BC2245C1317B23800C1643D</string>
+				<string>3BC2245D1317B23800C1643D</string>
+				<string>3BC2245E1317B23800C1643D</string>
+				<string>3BC2245F1317B23800C1643D</string>
 			</array>
 			<key>ToolbarConfiguration</key>
 			<string>xcode.toolbar.config.debugV3</string>
@@ -886,8 +888,6 @@
 					<key>Dock</key>
 					<array>
 						<dict>
-							<key>BecomeActive</key>
-							<true/>
 							<key>ContentConfiguration</key>
 							<dict>
 								<key>PBXProjectModuleGUID</key>
@@ -923,7 +923,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>1C78EAAD065D492600B07095</string>
-				<string>3B42692A1312481C0095E6F5</string>
+				<string>3BC224601317B23800C1643D</string>
 				<string>1C78EAAC065D492600B07095</string>
 			</array>
 			<key>ToolbarConfiguration</key>

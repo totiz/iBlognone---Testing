@@ -1,7 +1,7 @@
 TBlognone10
 v7
 r0
-t319965269.250427
+t320319670.588551
 cCheck dependencies
 cProcessInfoPlistFile /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/build/Debug-iphonesimulator/Blognone10.app/Info.plist Blognone3-Info.plist
 cCompileXIB /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/MainWindow.xib
@@ -460,7 +460,7 @@ s910
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies319965269#319965269#0(0"0(0#1#0"8610800288#0"0#
+lSLF07#2@18"Check dependencies320319670#320319670#0(0"0(0#1#0"7305790113158886400#0"0#
 
 CCompileC build/Blognone10.build/Debug-iphonesimulator/Blognone10.build/Objects-normal/i386/Blognone3AppDelegate.o /Users/totizy/Documents/iOS/iPhone/Beginer/Project/Blognone10/Classes/Blognone3AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s319964683.887104
