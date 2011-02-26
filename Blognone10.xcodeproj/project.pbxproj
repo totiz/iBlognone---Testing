@@ -18,6 +18,8 @@
 		3B415FA212BC8E050034E7DF /* ActivityIndicatorViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3B415FA012BC8E050034E7DF /* ActivityIndicatorViewController.xib */; };
 		3B41613212BCC0A50034E7DF /* dog1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 3B41613112BCC0A50034E7DF /* dog1.gif */; };
 		3B41613612BCC2060034E7DF /* IconDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B41613512BCC2060034E7DF /* IconDownloader.m */; };
+		3B63BED313198C6200D346CF /* EntryNewsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B63BED113198C6200D346CF /* EntryNewsViewController.m */; };
+		3B63BED413198C6200D346CF /* EntryNewsViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3B63BED213198C6200D346CF /* EntryNewsViewController.xib */; };
 		3B8AB98B12C35EFF008986D0 /* NewsDetailDownloader.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B8AB98A12C35EFF008986D0 /* NewsDetailDownloader.m */; };
 		3B8ABA6512C36C95008986D0 /* NetworkStatusBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 3B8ABA6312C36C95008986D0 /* NetworkStatusBar.m */; };
 		3B8ABA6612C36C95008986D0 /* NetworkStatusBar.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3B8ABA6412C36C95008986D0 /* NetworkStatusBar.xib */; };
@@ -51,6 +53,9 @@
 		3B41613112BCC0A50034E7DF /* dog1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = dog1.gif; sourceTree = "<group>"; };
 		3B41613412BCC2060034E7DF /* IconDownloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = IconDownloader.h; path = Classes/IconDownloader.h; sourceTree = "<group>"; };
 		3B41613512BCC2060034E7DF /* IconDownloader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = IconDownloader.m; path = Classes/IconDownloader.m; sourceTree = "<group>"; };
+		3B63BED013198C6200D346CF /* EntryNewsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EntryNewsViewController.h; sourceTree = "<group>"; };
+		3B63BED113198C6200D346CF /* EntryNewsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EntryNewsViewController.m; sourceTree = "<group>"; };
+		3B63BED213198C6200D346CF /* EntryNewsViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = EntryNewsViewController.xib; path = Classes/EntryNewsViewController.xib; sourceTree = "<group>"; };
 		3B8AB98912C35EFF008986D0 /* NewsDetailDownloader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NewsDetailDownloader.h; sourceTree = "<group>"; };
 		3B8AB98A12C35EFF008986D0 /* NewsDetailDownloader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NewsDetailDownloader.m; sourceTree = "<group>"; };
 		3B8ABA6212C36C95008986D0 /* NetworkStatusBar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NetworkStatusBar.h; sourceTree = "<group>"; };
@@ -103,6 +108,8 @@
 			children = (
 				3B954C4312B96E4E00AE828A /* DetailViewController.h */,
 				3B954C4412B96E4E00AE828A /* DetailViewController.m */,
+				3B63BED013198C6200D346CF /* EntryNewsViewController.h */,
+				3B63BED113198C6200D346CF /* EntryNewsViewController.m */,
 				3B954BCF12B96AC800AE828A /* NewsTableViewController.h */,
 				3B954BD012B96AC800AE828A /* NewsTableViewController.m */,
 				1D3623240D0F684500981E51 /* Blognone3AppDelegate.h */,
@@ -158,6 +165,7 @@
 		29B97317FDCFA39411CA2CEA /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				3B63BED213198C6200D346CF /* EntryNewsViewController.xib */,
 				3B41613012BCC09B0034E7DF /* Images */,
 				3B8ABA6412C36C95008986D0 /* NetworkStatusBar.xib */,
 				3B415FA012BC8E050034E7DF /* ActivityIndicatorViewController.xib */,
@@ -260,6 +268,7 @@
 				3B415FA212BC8E050034E7DF /* ActivityIndicatorViewController.xib in Resources */,
 				3B41613212BCC0A50034E7DF /* dog1.gif in Resources */,
 				3B8ABA6612C36C95008986D0 /* NetworkStatusBar.xib in Resources */,
+				3B63BED413198C6200D346CF /* EntryNewsViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -287,6 +296,7 @@
 				3B8AB98B12C35EFF008986D0 /* NewsDetailDownloader.m in Sources */,
 				3B8ABA6512C36C95008986D0 /* NetworkStatusBar.m in Sources */,
 				3BF428C012C65BFB00B06866 /* NewsTableViewCell.m in Sources */,
+				3B63BED313198C6200D346CF /* EntryNewsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

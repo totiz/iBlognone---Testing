@@ -38,10 +38,19 @@
 							 stringWithFormat:@"<img width='300' height='200' src='%@' />%@", 
 							 news.thumbnailURL,
 							 [detail objectForKey:@"description"]];
+	//[webView loadHTMLString:htmlContent baseURL:nil];
+	[spinner stopAnimating];
+	[UIApplication sharedApplication].networkActivityIndicatorVisible = NO;
+	
+	// show entry contents
+	EntryNewsViewController *entryNewsViewController = [EntryNewsViewController new];
+	entryNewsViewController.htmlContentData = htmlContent;
+	entryNewsViewController.commentsArray = [detail objectForKey:@"comment"];
+	[self.view addSubview:entryNewsViewController.view];
 	[webView loadHTMLString:htmlContent baseURL:nil];
 	[spinner stopAnimating];
 	[UIApplication sharedApplication].networkActivityIndicatorVisible = NO;
-
+	
 }
 
 - (void)viewWillDisappear:(BOOL)animated
@@ -53,29 +62,29 @@
 
 // The designated initializer.  Override if you create the controller programmatically and want to perform customization that is not appropriate for viewDidLoad.
 /*
-- (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
-    self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
-    if (self) {
-        // Custom initialization.
-    }
-    return self;
-}
-*/
+ - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil {
+ self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
+ if (self) {
+ // Custom initialization.
+ }
+ return self;
+ }
+ */
 
 /*
-// Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
-- (void)viewDidLoad {
-    [super viewDidLoad];
-}
-*/
+ // Implement viewDidLoad to do additional setup after loading the view, typically from a nib.
+ - (void)viewDidLoad {
+ [super viewDidLoad];
+ }
+ */
 
 /*
-// Override to allow orientations other than the default portrait orientation.
-- (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
-    // Return YES for supported orientations.
-    return (interfaceOrientation == UIInterfaceOrientationPortrait);
-}
-*/
+ // Override to allow orientations other than the default portrait orientation.
+ - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation {
+ // Return YES for supported orientations.
+ return (interfaceOrientation == UIInterfaceOrientationPortrait);
+ }
+ */
 
 - (void)didReceiveMemoryWarning {
     // Releases the view if it doesn't have a superview.

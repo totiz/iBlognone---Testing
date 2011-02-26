@@ -9,6 +9,7 @@
 #import <UIKit/UIKit.h>
 #import "News.h"
 #import "NewsDetailDownloader.h"
+#import "EntryNewsViewController.h"
 
 
 
