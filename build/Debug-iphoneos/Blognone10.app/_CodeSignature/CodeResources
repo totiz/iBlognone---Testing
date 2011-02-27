@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>files</key>
+	<dict>
+		<key>ActivityIndicatorViewController.nib</key>
+		<data>
+		d70GbqwELkwDbiXdrdChqc8fq7M=
+		</data>
+		<key>Blognone3.momd/Blognone3.mom</key>
+		<data>
+		l3Vo9RAsItiLyq/jG04pKUNKev4=
+		</data>
+		<key>DetailViewController.nib</key>
+		<data>
+		qH4XB7e+aZJVOD7QCqjKO1w/r1I=
+		</data>
+		<key>EntryNewsViewController.nib</key>
+		<data>
+		XoOhm4QzxWV9tPjx0PZPC/2gqvo=
+		</data>
+		<key>MainWindow.nib</key>
+		<data>
+		GpQIBShQjgRBlFJvk8bJf69fuew=
+		</data>
+		<key>NetworkStatusBar.nib</key>
+		<data>
+		AEo1vjCG7rYVKM7n+9CeGL1TVwQ=
+		</data>
+		<key>PkgInfo</key>
+		<data>
+		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>dog1.gif</key>
+		<data>
+		bO/UwCm6kTqbJZcYUBmmAagQd0Y=
+		</data>
+		<key>embedded.mobileprovision</key>
+		<data>
+		MkKrxHQY7q1z5Kj4mmKQ7cVpPsk=
+		</data>
+	</dict>
+	<key>rules</key>
+	<dict>
+		<key>.*</key>
+		<true/>
+		<key>Info.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>10</real>
+		</dict>
+		<key>ResourceRules.plist</key>
+		<dict>
+			<key>omit</key>
+			<true/>
+			<key>weight</key>
+			<real>100</real>
+		</dict>
+	</dict>
+</dict>
+</plist>
